@@ -1,0 +1,2 @@
+# GolinskyA
+Angular AtomSpace
